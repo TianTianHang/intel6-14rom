@@ -52,5 +52,5 @@ ls
 ls
 ./EfiRom -e nb-13-13700h.efi IgdAssignmentDxe.efi PlatformGopPolicy.efi -f 0x8086 -i 0xffff -o nb-13-13700h-q10.rom
 ls
-./EfiRom -e 11400.efi IgdAssignmentDxe.efi PlatformGopPolicy.efi -f 0x8086 -i 0xffff -o nb-11-11400h-q10.rom
+./EfiRom -e 11400.efi IgdAssignmentDxe.efi PlatformGopPolicy.efi -f 0x8086 -i 0x9a68 -o nb-11-11400h-q10.rom
 ls
